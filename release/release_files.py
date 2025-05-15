@@ -19,7 +19,7 @@ blacklist = [
   ".gitmodules",
 ]
 
-# gets you through the blacklist
+# gets you through the blacklist ssssssssssssssssssssssssssssssssssssss
 whitelist: list[str] = [
 ]
 
